@@ -27,8 +27,10 @@
   "aboutmyid_others_section2": "กรณีต้องการลบบัญชี ผู้ใช้งานสามารถลบ myID ของคุณด้วยตนเองได้ โดยกดปุ่ม “ลบบัญชี myID” และทำการยืนยันการทำรายการ",
   "aboutmyid_add_number": "เพิ่มหมายเลข",
   "aboutmyid_confirm_delete_myid": "ยืนยันลบบัญชี myID",
-  "aboutmyid_delete_myid_section1": "<b>After successfully cancelling your myID account,  you will not be able to make changes or  cancel transactions, and you can’t retrieve  unrecoverable data such as numbers added  under myID, credit/debit cards linked to  the myID account, images, and favorite lists.  If you wish to use the service again in the future,  you can register a new myID account.</b>",
-  "aboutmyid_delete_myid_section2": "Deleting a myID accounts isn’t related to the customer profile, number and service status,  AIS Points or package subscriptions.",
+  "aboutmyid_delete_myid_section1": "<b>เมื่อยกเลิกบัญชี myID สำเร็จแล้ว คุณจะไม่สามารถ เปลี่ยนแปลง หรือยกเลิกการทำรายการ และ ไม่สามารถเรียกคืนข้อมูลที่กู้คืนไม่ได้ เช่น</b>",
+  "aboutmyid_delete_myid_section2": "หมายเลขที่ถูกเพิ่มภายใต้ myID",
   "aboutmyid_view_user_guide": "ดูรายละเอียดการใช้งานเพิ่มเติม",
-  "aboutmyid_desc_corp_number": "myID เป็นบัญชีส่วนบุคคล สำหรับผู้ใช้งานหมายเลขนิติบุคคล สามารถสร้าง myID โดยใช้อีเมลส่วนตัวได้เลย!"
+  "aboutmyid_desc_corp_number": "myID เป็นบัญชีส่วนบุคคล สำหรับผู้ใช้งานหมายเลขนิติบุคคล สามารถสร้าง myID โดยใช้อีเมลส่วนตัวได้เลย!",
+  "aboutmyid_delete_success_title": "เราเสียใจที่คุณจะจากไป",
+  "aboutmyid_delete_success_desc": "เราจะทำให้ประสบการณ์ของคุณดีขึ้นได้อย่างไร"
 }

@@ -28,7 +28,7 @@
   "aboutmyid_add_number": "Add Number",
   "aboutmyid_confirm_delete_myid": "Confirm delete myID",
   "aboutmyid_delete_myid_section1": "After successfully cancelling your myID account, you will not be able to make changes or cancel transactions, and you can't retrieve unrecoverable data such as numbers added under myID, credit/debit cards linked to the myID account, images, and favorite lists. If you wish to use the service again in the future, you can register a new myID account. Deleting a myID accounts isn't related to the customer profile, number and service status, AIS Points or package subscriptions.",
-  "aboutmyid_delete_myid_section2": "Deleting a myID accounts isn't related to the customer profile, number and service status,  AIS Points or package subscriptions.",
+  "aboutmyid_delete_myid_section2": "numbers added under myID",
   "aboutmyid_view_user_guide": "View user guide",
   "aboutmyid_desc_corp_number": "myID is a personal account. If you hold a business number, feel free to create a myID by using your personal email address!",
   "aboutmyid_delete_success_title": "We are sad to see you go",
