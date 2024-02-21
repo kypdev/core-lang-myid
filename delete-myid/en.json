@@ -30,5 +30,10 @@
   "aboutmyid_view_user_guide": "View user guide",
   "aboutmyid_desc_corp_number": "myID is a personal account. If you hold a business number, feel free to create a myID by using your personal email address!",
   "aboutmyid_delete_success_title": "We are sad to see you go",
-  "aboutmyid_delete_success_desc": "How can we make your experience better."
+  "aboutmyid_delete_success_desc": "How can we make your experience better.",
+  "otp_code_sent": "OTP code has been sent to",
+  "expire_after": "Your OTP will expire 5 mins after",
+  "received_code": "you have received the code",
+  "not_receive_otp": "Did’t receive the OTP?",
+  "resend_otp": "Resend OTP"
 }

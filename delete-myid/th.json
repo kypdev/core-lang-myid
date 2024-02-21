@@ -30,5 +30,10 @@
   "aboutmyid_view_user_guide": "ดูรายละเอียดการใช้งานเพิ่มเติม",
   "aboutmyid_desc_corp_number": "myID เป็นบัญชีส่วนบุคคล สำหรับผู้ใช้งานหมายเลขนิติบุคคล สามารถสร้าง myID โดยใช้อีเมลส่วนตัวได้เลย!",
   "aboutmyid_delete_success_title": "เราเสียใจที่คุณจะจากไป",
-  "aboutmyid_delete_success_desc": "เราจะทำให้ประสบการณ์ของคุณดีขึ้นได้อย่างไร"
+  "aboutmyid_delete_success_desc": "เราจะทำให้ประสบการณ์ของคุณดีขึ้นได้อย่างไร",
+  "otp_code_sent": "OTP ถูกส่งไปยังหมายเลข",
+  "expire_after": "รหัส OTP ของคุณจะหมดอายุภายใน 5 นาที",
+  "received_code": "หลังจากที่คุณได้รับรหัส",
+  "not_receive_otp": "ไม่ได้รับรหัส OTP?",
+  "resend_otp": "ขอรหัส OTP อีกครั้ง"
 }
